@@ -1,6 +1,6 @@
 ## Please find the associated dataset here: https://github.com/mughanibu/Dendritic-Spine-Analysis-Dataset
 
-The following packages are suggested to run the examples and reproduce results:
+The following packages are suggested to reproduce results:
 - `pccdr==1.0.1`
 - `torchdr==0.2`
 - `torch==2.2.2`
